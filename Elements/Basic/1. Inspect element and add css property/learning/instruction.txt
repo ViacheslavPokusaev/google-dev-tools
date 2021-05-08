@@ -1,4 +1,0 @@
-1. Open DevTools by click F12 (also, Shift + CTRL + J)
-2. Click button "Inspect element" in top on the left side (picture 1). Also, Shift + CTRL + C doing the same
-3. In the right on "Style" tab you can see lists the CSS rules (picture 1)
-4. To disable/adding property see picture 2
