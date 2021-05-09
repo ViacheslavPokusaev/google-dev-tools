@@ -1,0 +1,41 @@
+a {
+  display: block;
+}
+
+.margin-bottom * {
+  margin-bottom: 30px;
+}
+
+.active:active {
+  background-color: yellow;
+}
+
+.focus:focus {
+  outline: 2px solid red;
+}
+
+.focus-within {
+  display: flex;
+  flex-direction: column;
+}
+
+.focus-within:focus-within {
+  background: cyan;
+}
+
+:target {
+  border: 2px solid black;
+}
+
+.hover:hover {
+  font-size: 250%;
+  transition: 1s all;
+}
+
+.visited:visited {
+  color: pink;
+}
+
+.focus-visible:focus-visible {
+  outline: 4px dashed darkorange;
+}
